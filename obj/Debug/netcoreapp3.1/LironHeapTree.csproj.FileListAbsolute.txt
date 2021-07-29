@@ -1,0 +1,13 @@
+E:\LironHeapTree\bin\Debug\netcoreapp3.1\LironHeapTree.exe
+E:\LironHeapTree\bin\Debug\netcoreapp3.1\LironHeapTree.deps.json
+E:\LironHeapTree\bin\Debug\netcoreapp3.1\LironHeapTree.runtimeconfig.json
+E:\LironHeapTree\bin\Debug\netcoreapp3.1\LironHeapTree.runtimeconfig.dev.json
+E:\LironHeapTree\bin\Debug\netcoreapp3.1\LironHeapTree.dll
+E:\LironHeapTree\bin\Debug\netcoreapp3.1\LironHeapTree.pdb
+E:\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.csprojAssemblyReference.cache
+E:\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.AssemblyInfoInputs.cache
+E:\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.AssemblyInfo.cs
+E:\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.csproj.CoreCompileInputs.cache
+E:\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.dll
+E:\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.pdb
+E:\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.genruntimeconfig.cache
