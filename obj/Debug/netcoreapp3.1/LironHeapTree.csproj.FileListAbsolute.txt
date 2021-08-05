@@ -11,3 +11,16 @@ E:\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.csproj.CoreCompileInputs.
 E:\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.dll
 E:\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.pdb
 E:\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.genruntimeconfig.cache
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironHeapTree\bin\Debug\netcoreapp3.1\LironHeapTree.exe
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironHeapTree\bin\Debug\netcoreapp3.1\LironHeapTree.deps.json
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironHeapTree\bin\Debug\netcoreapp3.1\LironHeapTree.runtimeconfig.json
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironHeapTree\bin\Debug\netcoreapp3.1\LironHeapTree.runtimeconfig.dev.json
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironHeapTree\bin\Debug\netcoreapp3.1\LironHeapTree.dll
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironHeapTree\bin\Debug\netcoreapp3.1\LironHeapTree.pdb
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.dll
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.pdb
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironHeapTree\obj\Debug\netcoreapp3.1\LironHeapTree.genruntimeconfig.cache

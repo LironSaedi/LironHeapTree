@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\LironHeapTree\\LironHeapTree.csproj": {}
+    "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\LironHeapTree\\LironHeapTree.csproj": {}
   },
   "projects": {
-    "E:\\LironHeapTree\\LironHeapTree.csproj": {
+    "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\LironHeapTree\\LironHeapTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LironHeapTree\\LironHeapTree.csproj",
+        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\LironHeapTree\\LironHeapTree.csproj",
         "projectName": "LironHeapTree",
-        "projectPath": "E:\\LironHeapTree\\LironHeapTree.csproj",
+        "projectPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\LironHeapTree\\LironHeapTree.csproj",
         "packagesPath": "C:\\Users\\Liron.Saedi\\.nuget\\packages\\",
-        "outputPath": "E:\\LironHeapTree\\obj\\",
+        "outputPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\LironHeapTree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
